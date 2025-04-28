@@ -1,5 +1,6 @@
 'use client';
 
+import "./admin.css";
 import { House } from "lucide-react";
 import { Bar } from 'react-chartjs-2';
 import Head from "next/head";
